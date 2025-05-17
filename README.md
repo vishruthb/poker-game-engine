@@ -1,6 +1,4 @@
-# SCAI Poker Jam
-
-Welcome to Poker Jam! This competition is designed to simulate a simplified version of a poker game, allowing you to come up with unique strategies, build your own custom algorithms, and play poker against other strategies!
+# Poker Engine
 
 ## Getting Started
 
