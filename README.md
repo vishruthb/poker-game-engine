@@ -1,4 +1,4 @@
-# Poker Engine
+# poker game engine
 
 ## Getting Started
 
